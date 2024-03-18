@@ -1,5 +1,9 @@
 # Coconut
 
+## Background
+
+This project was created for Auburn Hacks 2023 with [Jung Hoon Park](https://github.com/HoooonPark) and [Tien Bui](https://github.com/tienbui2106). The original repository has been made private due to an email leak, but has been reuploaded here.
+
 ## Installation
 
 First, make sure you have [Python 3](https://www.python.org/) installed, then clone the repository locally. If you don't know what that means, click the green "<>Code" button near the top of this page, click "Download ZIP", then extract the ZIP file anywhere you'd like.
